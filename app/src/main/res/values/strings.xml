@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyFragmentDemo</string>
+
+    <string  name="sumonProfile">
+        \n Name : A H I Somon
+        \n Age : 24
+        \n University : MEDIU
+    </string>
+
+    <string  name="ashikProfile">
+        \nName : A H I Ashik
+        \nAge : 28
+        \nUniversity : MEDIU
+    </string>
+
+    <string name="jesanProfile">
+        \nName : A H I Jesan
+        \nAge : 27
+        \nUniversity : MEDIU
+    </string >
+
+    <string  name="tuhinProfile">
+        \nName : A H I Tuhin
+        \nAge : 25
+        \nUniversity : MEDIU
+    </string >
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
